@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.4.0
+python-dotenv==0.020.0
+requests~=2.28.1
+loguru~=0.6.0
