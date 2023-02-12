@@ -1,10 +1,10 @@
 <h1 align="center">TeleBot Hotel.com search</h1>
 
 <h2>Описание:</h2>
-><li>Бот написан на Python 3.8.6.</li>
-><li>Для работы бота необходимо дополнительно установить библиотеки «pyTelegramBotAPI», «python-dotenv», «requests» и «loguru».</li>
-><li>Бот использует API "rapidapi.com".</li>
-><li>Для работы с БД используется sqlite3.</li>
+<li>Бот написан на Python 3.8.6.</li>
+<li>Для работы бота необходимо дополнительно установить библиотеки «pyTelegramBotAPI», «python-dotenv», «requests» и «loguru».</li>
+<li>Бот использует API "rapidapi.com".</li>
+<li>Для работы с БД используется sqlite3.</li>
 
 <h2>Содержание:</h2>
 
